@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <!-- Shared content -->
+  <RulePackDef>
+    <defName>DeityTypeMakerKTDeathjackG</defName>
+    <include>
+      <li>GlobalUtility</li>
+    </include>
+    <rulePack>
+      <rulesStrings>
+        <li>r_deityType-&gt;[god] of [memeConcept]</li>
+        <li>god-&gt;The Thunderer</li>
+        <li>god-&gt;The God-King</li>
+        <li>god-&gt;The Man-God</li>
+        <li>god-&gt;The Great Roaring One</li>
+        <li>god-&gt;Caretaker of Humanity</li>
+      </rulesStrings>
+    </rulePack>
+  </RulePackDef>
+  <!-- Culture-specific content -->
+  <RulePackDef>
+    <defName>DeityTypeMakerKTDeathjack</defName>
+    <include>
+      <li>DeityTypeMakerKTDeathjackG</li>
+    </include>
+  </RulePackDef>
+</Defs>

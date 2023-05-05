@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <!-- Culture-specific content -->
+  <RulePackDef>
+    <defName>NamerDeityKTDeathjack</defName>
+    <include>
+      <li MayRequire="Ludeon.RimWorld.Ideology">NamerDeityGlobal</li>
+    </include>
+    <rulePack>
+      <rulesStrings>
+        <li>name-&gt;[syl]</li>
+        <li>syl-&gt;Sigmar Heldenhammer</li>
+        <li>syl-&gt;Sigmar</li>
+        <li>syl-&gt;the Lord of Azyr</li>
+        <li>syl-&gt;Sigmar Stormlord</li>
+        <li>syl-&gt;Chaosbane</li>
+        <li>syl-&gt;Sigmar of Azyr</li>
+        <li>syl-&gt;Starlit King</li>
+        <li>syl-&gt;Sigmar the Liberator</li>
+        <li>syl-&gt;Sigmar the Builder</li>
+      </rulesStrings>
+    </rulePack>
+  </RulePackDef>
+</Defs>

@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Warhammer: Deathjacks (Continued)</name>
+  <packageId>Mlie.WarhammerDeathjacks</packageId>
+  <author>KompadT</author>
+  <url>https://github.com/emipa606/WarhammerDeathjacks</url>
+  <supportedVersions>
+    <li>1.0</li>
+    <li>1.1</li>
+    <li>1.2</li>
+    <li>1.3</li>
+    <li>1.4</li>
+  </supportedVersions>
+  <modDependencies>
+    <li>
+      <packageId>erdelf.HumanoidAlienRaces</packageId>
+      <displayName>Humanoid Alien Races</displayName>
+      <steamWorkshopUrl>steam://url/CommunityFilePage/839005762</steamWorkshopUrl>
+      <downloadUrl>https://github.com/erdelf/AlienRaces/releases/latest</downloadUrl>
+    </li>
+  </modDependencies>
+  <loadAfter>
+    <li>erdelf.HumanoidAlienRaces</li>
+  </loadAfter>
+  <description>[img]https://i.imgur.com/buuPQel.png[/img]
+Update of KompadTs mod https://steamcommunity.com/sharedfiles/filedetails/?id=1733501512
+
+[img]https://i.imgur.com/pufA0kM.png[/img]
+
+[table]
+    [tr][td][url=https://dsc.gg/mlie][img]https://i.imgur.com/zdzzBrc.png[/img][/url][/td] [td][url=https://github.com/emipa606/WarhammerDeathjacks][img]https://i.imgur.com/kTkpTOE.png[/img][/url][/td]
+    [/tr]
+    [tr]
+        [td][img]https://i.imgur.com/WjDSfUn.png[/img][/td]
+        [td][img]https://i.imgur.com/Be8E2qJ.png[/img][/td]
+    [/tr]
+[/table]
+	
+[img]https://i.imgur.com/Z4GOv8H.png[/img]
+For Rimworld 1.3, 1.2, 1.1 and 1.0
+ 
+   Adds the Deathjacks of the Empire.
+    This mod require Alien Framework.
+    Load Humanoid Alien Races before this mod.
+
+    The Deathjacks of the Stirland army has arrived at the Rimworld.
+    Serving the Stirland army as renowned scouts and archers. Ambushing their opponent with their troops and raiding supply lines.
+    Their track record are infamous as even allied baggage trains and supplies mysteriously go missing in their presence, leaving them with the nicknames, the Mutton-sticker or Thievingjacks. But all is forgiven when the archers return from a scouting mission, waving their banner to signify enemies ahead, or blaring the all-clear on their hunting.
+
+    New faction: Deathjacks
+    New scenario: Deserters
+    New building: Travel pot
+    New apparel: Unifrom (shirt), tabard, long johns, pantaloons, fur cap, hat, coat
+    New weapon: Flintlock pistol, grenade
+
+    A simple faction mod for a minor Empire addition with some new gear.
+
+    Feel free to leave feedback or any general input.
+    It's alot easier to tweak a mod with some feedback.
+
+Race mods from me:
+Beastmen: Gors
+https://steamcommunity.com/sharedfiles/filedetails/?id=1669073318
+Chaos daemons: daemonettes
+https://steamcommunity.com/sharedfiles/filedetails/?id=1659631711
+Ancient: Dryads
+https://steamcommunity.com/sharedfiles/filedetails/?id=1694750191
+Skaven
+https://steamcommunity.com/sharedfiles/filedetails/?id=1706345856
+Zhthy'hl
+https://steamcommunity.com/sharedfiles/filedetails/?id=1754691148
+Fimir:
+https://steamcommunity.com/sharedfiles/filedetails/?id=1953175950
+
+[img]https://i.imgur.com/PwoNOj4.png[/img]
+[list]
+[*] See if the the error persists if you just have this mod and its requirements active.
+[*] If not, try adding your other mods until it happens again.
+[*] Post your error-log using [url=https://steamcommunity.com/workshop/filedetails/?id=818773962]HugsLib[/url] and command Ctrl+F12
+[*] For best support, please use the Discord-channel for error-reporting.
+[*] Do not report errors by making a discussion-thread, I get no notification of that.
+[*] If you have the solution for a problem, please post it to the GitHub repository.
+[/list]</description>
+</ModMetaData>
