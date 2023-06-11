@@ -11,7 +11,7 @@
       <li>
         <categories>
           <li>Deathjack</li>
-          <li MayRequire="Kompadt.Warhammer.Freeguild">FGStirland</li>
+          <li MayRequire="Mlie.WarhammerFreeguild">FGStirland</li>
         </categories>
       </li>
     </backstoryFiltersOverride>
